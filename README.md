@@ -52,44 +52,29 @@ While the app works well, I recommend using a physical Alexa device for the best
 
 >Click on a flag to open the skill in the Alexa Skill Store for that region 
 
+<br>
+
 <p>
   <a href="https://www.amazon.in/dp/B08BLB82Q2" target="_blank" rel="noopener noreferrer">
-    <img src="https://flagcdn.com/w40/in.png" alt="India" width="50" height="25" />
+    <img src="https://flagcdn.com/w40/in.png" alt="India" width="60" height="30" />
   </a>
   <img src="https://via.placeholder.com/30x1/ffffff/ffffff.png" alt="" width="70" height="1" />
   <a href="https://www.amazon.com.au/dp/B08BLB82Q2" target="_blank" rel="noopener noreferrer">
-    <img src="https://flagcdn.com/w40/au.png" alt="Australia" width="50"  />
+    <img src="https://flagcdn.com/w40/au.png" alt="Australia" width="60"  />
   </a>
   <img src="https://via.placeholder.com/30x1/ffffff/ffffff.png" alt="" width="70" height="1" />
   <a href="https://www.amazon.com/dp/B08BLB82Q2" target="_blank" rel="noopener noreferrer">
-    <img src="https://flagcdn.com/w40/us.png" alt="United States" width="50"  />
+    <img src="https://flagcdn.com/w40/us.png" alt="United States" width="60"  />
   </a>
   <img src="https://via.placeholder.com/30x1/ffffff/ffffff.png" alt="" width="70" height="1" />
   <a href="https://www.amazon.co.uk/dp/B08BLB82Q2" target="_blank" rel="noopener noreferrer">
-    <img src="https://flagcdn.com/w40/gb.png" alt="United Kingdom" width="50"  />
+    <img src="https://flagcdn.com/w40/gb.png" alt="United Kingdom" width="60"  />
   </a>
 </p>
 
 
 ---
-<p>
-  <a href="https://www.amazon.in/dp/B08BLB82Q2" target="_blank">
-    <img src="https://flagcdn.com/w40/in.png" alt="India" width="50" height="25" />
-  </a>
-  <img src="https://via.placeholder.com/30x1/ffffff/ffffff.png" alt="" width="70" height="1" />
-  <a href="https://www.amazon.com.au/dp/B08BLB82Q2" target="_blank">
-    <img src="https://flagcdn.com/w40/au.png" alt="Australia" width="50" />
-  </a>
-  <img src="https://via.placeholder.com/30x1/ffffff/ffffff.png" alt="" width="70" height="1" />
-  <a href="https://www.amazon.com/dp/B08BLB82Q2" target="_blank">
-    <img src="https://flagcdn.com/w40/us.png" alt="United States" width="50" />
-  </a>
-  <img src="https://via.placeholder.com/30x1/ffffff/ffffff.png" alt="" width="70" height="1" />
-  <a href="https://www.amazon.co.uk/dp/B08BLB82Q2" target="_blank">
-    <img src="https://flagcdn.com/w40/gb.png" alt="United Kingdom" width="50" />
-  </a>
-</p>
----
+
 
 
 ## 📩 Feedback

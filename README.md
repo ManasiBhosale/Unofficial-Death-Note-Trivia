@@ -14,7 +14,9 @@
 
 #### Alexa Skill (Multi-Region Deployment)
 
-![Users](https://img.shields.io/badge/750%2B_Users-Reached_across_4_countries-brightgreen?style=flat&logo=audacity&logoColor=white)
+![Users](https://img.shields.io/badge/750%2B_Users-Reached_across_4_countries-00caff?style=flat&logo=audacity&logoColor=white)
+
+
 
 
 Welcome to the repository for the **Unofficial Death Note Trivia**, a voice-interactive trivia game designed for Amazon Alexa users across multiple regions, including **India, Australia, the United States, and the United Kingdom**.

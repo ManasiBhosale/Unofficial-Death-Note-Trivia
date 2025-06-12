@@ -10,7 +10,7 @@
   Unofficial Death Note Trivia
 </h1>
 
----
+
 
 #### Alexa Skill (Multi-Region Deployment)
 

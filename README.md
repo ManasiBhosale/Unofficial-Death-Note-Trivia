@@ -14,7 +14,9 @@
 
 #### Alexa Skill (Multi-Region Deployment)
 
-![Users](https://img.shields.io/badge/750%2B_Users-Reached_across_4_countries-00caff?style=flat&logo=audacity&logoColor=white&labelColor=808080)
+![Users](https://img.shields.io/badge/750%2B_Users-Reached_across_4_countries-brightgreen?style=flat&logo=audacity&logoColor=white)
+
+
 
 
 

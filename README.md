@@ -25,7 +25,7 @@ Welcome to the repository for the **Unofficial Death Note Trivia**, a voice-inte
 
 > 🚨 Note: This repository only contains an overview of the project. The skill code is deployed via AWS Lambda and not open-sourced at this time.
 
----
+
 
 ## 📚 Overview
 
